@@ -1,0 +1,249 @@
+﻿NUTS_ID;CNTR_CODE;NAME_LATN;HW_REGIME;HW_REGIME_S;Z_HOUSINGPREC;Z_LABOUR_PREC
+DK03;DK;Syddanmark;Social-democratic unitary rental market;1;0,238;0,379
+DK02;DK;Sjælland;Social-democratic unitary rental market;1;0,279;0,359
+DK04;DK;Midtjylland;Social-democratic unitary rental market;1;0,279;0,392
+DK05;DK;Nordjylland;Social-democratic unitary rental market;1;0,285;0,361
+DK01;DK;Hovedstaden;Social-democratic unitary rental market;1;0,364;0,426
+NL13;NL;Drenthe;Social-democratic unitary rental market;1;0,156;0,508
+NL11;NL;Groningen;Social-democratic unitary rental market;1;0,165;0,554
+NL12;NL;Friesland (NL);Social-democratic unitary rental market;1;0,165;0,520
+NL41;NL;Noord-Brabant;Social-democratic unitary rental market;1;0,179;0,520
+NL23;NL;Flevoland;Social-democratic unitary rental market;1;0,179;0,525
+NL22;NL;Gelderland;Social-democratic unitary rental market;1;0,185;0,535
+NL42;NL;Limburg (NL);Social-democratic unitary rental market;1;0,189;0,498
+NL21;NL;Overijssel;Social-democratic unitary rental market;1;0,196;0,515
+NL31;NL;Utrecht;Social-democratic unitary rental market;1;0,245;0,539
+NL32;NL;Noord-Holland;Social-democratic unitary rental market;1;0,250;0,548
+NL33;NL;Zuid-Holland;Social-democratic unitary rental market;1;0,259;0,527
+NL34;NL;Zeeland;Social-democratic unitary rental market;1;0,261;0,501
+SE33;SE;Övre Norrland;Social-democratic unitary rental market;1;0,172;0,394
+SE32;SE;Mellersta Norrland;Social-democratic unitary rental market;1;0,183;0,403
+SE31;SE;Norra Mellansverige;Social-democratic unitary rental market;1;0,227;0,395
+SE21;SE;Småland med öarna;Social-democratic unitary rental market;1;0,230;0,380
+SE23;SE;Västsverige;Social-democratic unitary rental market;1;0,247;0,407
+SE12;SE;Östra Mellansverige;Social-democratic unitary rental market;1;0,270;0,406
+SE11;SE;Stockholm;Social-democratic unitary rental market;1;0,302;0,378
+SE22;SE;Sydsverige;Social-democratic unitary rental market;1;0,304;0,391
+AT31;AT;Oberösterreich;Conservative-corporatist unitary rental market;2;0,170;0,393
+AT11;AT;Burgenland;Conservative-corporatist unitary rental market;2;0,188;0,375
+AT21;AT;Kärnten;Conservative-corporatist unitary rental market;2;0,202;0,403
+AT12;AT;Niederösterreich;Conservative-corporatist unitary rental market;2;0,212;0,367
+AT22;AT;Steiermark;Conservative-corporatist unitary rental market;2;0,221;0,408
+AT32;AT;Salzburg;Conservative-corporatist unitary rental market;2;0,227;0,418
+AT33;AT;Tirol;Conservative-corporatist unitary rental market;2;0,248;0,404
+AT34;AT;Vorarlberg;Conservative-corporatist unitary rental market;2;0,256;0,400
+AT13;AT;Wien;Conservative-corporatist unitary rental market;2;0,372;0,468
+DEB2;DE;Trier;Conservative-corporatist unitary rental market;2;0,124;0,329
+DED4;DE;Chemnitz;Conservative-corporatist unitary rental market;2;0,140;0,276
+DE23;DE;Oberpfalz;Conservative-corporatist unitary rental market;2;0,140;0,310
+DE26;DE;Unterfranken;Conservative-corporatist unitary rental market;2;0,165;0,293
+DE22;DE;Niederbayern;Conservative-corporatist unitary rental market;2;0,174;0,302
+DEE0;DE;Sachsen-Anhalt;Conservative-corporatist unitary rental market;2;0,175;0,259
+DED2;DE;Dresden;Conservative-corporatist unitary rental market;2;0,185;0,306
+DE24;DE;Oberfranken;Conservative-corporatist unitary rental market;2;0,189;0,293
+DE27;DE;Schwaben;Conservative-corporatist unitary rental market;2;0,191;0,303
+DE91;DE;Braunschweig;Conservative-corporatist unitary rental market;2;0,235;0,324
+DED5;DE;Leipzig;Conservative-corporatist unitary rental market;2;0,239;0,329
+DE94;DE;Weser-Ems;Conservative-corporatist unitary rental market;2;0,241;0,328
+DEB1;DE;Koblenz;Conservative-corporatist unitary rental market;2;0,243;0,308
+DE93;DE;Lüneburg;Conservative-corporatist unitary rental market;2;0,246;0,331
+DE14;DE;Tübingen;Conservative-corporatist unitary rental market;2;0,247;0,319
+DE21;DE;Oberbayern;Conservative-corporatist unitary rental market;2;0,249;0,350
+DE11;DE;Stuttgart;Conservative-corporatist unitary rental market;2;0,250;0,328
+DE25;DE;Mittelfranken;Conservative-corporatist unitary rental market;2;0,251;0,312
+DE13;DE;Freiburg;Conservative-corporatist unitary rental market;2;0,252;0,325
+DE40;DE;Brandenburg;Conservative-corporatist unitary rental market;2;0,256;0,272
+DEG0;DE;Thüringen;Conservative-corporatist unitary rental market;2;0,262;0,286
+DE92;DE;Hannover;Conservative-corporatist unitary rental market;2;0,263;0,323
+DEA4;DE;Detmold;Conservative-corporatist unitary rental market;2;0,266;0,310
+DEF0;DE;Schleswig-Holstein;Conservative-corporatist unitary rental market;2;0,267;0,363
+DE80;DE;Mecklenburg-Vorpommern;Conservative-corporatist unitary rental market;2;0,269;0,340
+DEB3;DE;Rheinhessen-Pfalz;Conservative-corporatist unitary rental market;2;0,270;0,334
+DE12;DE;Karlsruhe;Conservative-corporatist unitary rental market;2;0,270;0,324
+DEC0;DE;Saarland;Conservative-corporatist unitary rental market;2;0,275;0,300
+DE72;DE;Gießen;Conservative-corporatist unitary rental market;2;0,285;0,323
+DE73;DE;Kassel;Conservative-corporatist unitary rental market;2;0,291;0,324
+DE71;DE;Darmstadt;Conservative-corporatist unitary rental market;2;0,292;0,339
+DEA3;DE;Münster;Conservative-corporatist unitary rental market;2;0,294;0,339
+DE60;DE;Hamburg;Conservative-corporatist unitary rental market;2;0,300;0,363
+DEA5;DE;Arnsberg;Conservative-corporatist unitary rental market;2;0,303;0,306
+DE30;DE;Berlin;Conservative-corporatist unitary rental market;2;0,307;0,404
+DEA2;DE;Köln;Conservative-corporatist unitary rental market;2;0,333;0,346
+DEA1;DE;Düsseldorf;Conservative-corporatist unitary rental market;2;0,337;0,325
+DE50;DE;Bremen;Conservative-corporatist unitary rental market;2;0,383;0,392
+FRH0;FR;Bretagne;Conservative-corporatist unitary rental market;2;0,229;0,368
+FRC2;FR;Franche-Comté;Conservative-corporatist unitary rental market;2;0,239;0,345
+FRI3;FR;Poitou-Charentes;Conservative-corporatist unitary rental market;2;0,241;0,368
+FRK1;FR;Auvergne;Conservative-corporatist unitary rental market;2;0,242;0,348
+FRB0;FR;Centre — Val de Loire;Conservative-corporatist unitary rental market;2;0,245;0,297
+FRD1;FR;Basse-Normandie;Conservative-corporatist unitary rental market;2;0,245;0,361
+FRY2;FR;Martinique;Conservative-corporatist unitary rental market;2;0,247;0,297
+FRI2;FR;Limousin;Conservative-corporatist unitary rental market;2;0,249;0,342
+FRC1;FR;Bourgogne;Conservative-corporatist unitary rental market;2;0,250;0,355
+FRY1;FR;Guadeloupe;Conservative-corporatist unitary rental market;2;0,250;0,364
+FRG0;FR;Pays de la Loire;Conservative-corporatist unitary rental market;2;0,258;0,354
+FRF2;FR;Champagne-Ardenne;Conservative-corporatist unitary rental market;2;0,267;0,317
+FRD2;FR;Haute-Normandie;Conservative-corporatist unitary rental market;2;0,269;0,310
+FRJ2;FR;Midi-Pyrénées;Conservative-corporatist unitary rental market;2;0,273;0,355
+FRI1;FR;Aquitaine;Conservative-corporatist unitary rental market;2;0,273;0,355
+FRF1;FR;Alsace;Conservative-corporatist unitary rental market;2;0,276;0,308
+FRF3;FR;Lorraine;Conservative-corporatist unitary rental market;2;0,278;0,345
+FRK2;FR;Rhône-Alpes;Conservative-corporatist unitary rental market;2;0,282;0,378
+FRY4;FR;La Réunion;Conservative-corporatist unitary rental market;2;0,289;0,390
+FRE2;FR;Picardie;Conservative-corporatist unitary rental market;2;0,291;0,321
+FRJ1;FR;Languedoc-Roussillon;Conservative-corporatist unitary rental market;2;0,305;0,412
+FRE1;FR;Nord-Pas de Calais;Conservative-corporatist unitary rental market;2;0,316;0,307
+FRL0;FR;Provence-Alpes-Côte d’Azur;Conservative-corporatist unitary rental market;2;0,324;0,372
+FRY5;FR;Mayotte;Conservative-corporatist unitary rental market;2;0,331;0,382
+FRM0;FR;Corse;Conservative-corporatist unitary rental market;2;0,334;0,383
+FR10;FR;Ile-de-France;Conservative-corporatist unitary rental market;2;0,336;0,301
+FRY3;FR;Guyane;Conservative-corporatist unitary rental market;2;0,480;0,317
+BE22;BE;Prov. Limburg (BE);NWE homeownership with a dual rental market;3;0,134;0,386
+BE25;BE;Prov. West-Vlaanderen;NWE homeownership with a dual rental market;3;0,147;0,376
+BE23;BE;Prov. Oost-Vlaanderen;NWE homeownership with a dual rental market;3;0,160;0,363
+BE24;BE;Prov. Vlaams-Brabant;NWE homeownership with a dual rental market;3;0,161;0,309
+BE21;BE;Prov. Antwerpen;NWE homeownership with a dual rental market;3;0,172;0,393
+BE35;BE;Prov. Namur;NWE homeownership with a dual rental market;3;0,210;0,335
+BE33;BE;Prov. Liège;NWE homeownership with a dual rental market;3;0,224;0,335
+BE34;BE;Prov. Luxembourg (BE);NWE homeownership with a dual rental market;3;0,269;0,395
+BE32;BE;Prov. Hainaut;NWE homeownership with a dual rental market;3;0,285;0,256
+BE31;BE;Prov. Brabant Wallon;NWE homeownership with a dual rental market;3;0,334;0,401
+BE10;BE;Région de Bruxelles-Capitale/ Brussels Hoofdstedelijk Gewest;NWE homeownership with a dual rental market;3;0,462;0,371
+FI1D;FI;Pohjois- ja Itä-Suomi;NWE homeownership with a dual rental market;3;0,137;0,446
+FI19;FI;Länsi-Suomi;NWE homeownership with a dual rental market;3;0,143;0,426
+FI20;FI;Åland;NWE homeownership with a dual rental market;3;0,143;0,388
+FI1C;FI;Etelä-Suomi;NWE homeownership with a dual rental market;3;0,152;0,395
+FI1B;FI;Helsinki-Uusimaa;NWE homeownership with a dual rental market;3;0,228;0,392
+IE04;IE;Northern and Western;NWE homeownership with a dual rental market;3;0,152;0,401
+IE05;IE;Southern;NWE homeownership with a dual rental market;3;0,201;0,415
+IE06;IE;Eastern and Midland;NWE homeownership with a dual rental market;3;0,244;0,386
+LU00;LU;Luxembourg;NWE homeownership with a dual rental market;3;0,180;0,272
+CY00;CY;Kýpros;SE family-based homeownership;4;0,244;0,379
+EL54;EL;Ipeiros;SE family-based homeownership;4;0,457;0,517
+EL61;EL;Thessalia;SE family-based homeownership;4;0,510;0,487
+EL43;EL;Kriti;SE family-based homeownership;4;0,529;0,573
+EL64;EL;Sterea Elláda;SE family-based homeownership;4;0,567;0,475
+EL41;EL;Voreio Aigaio;SE family-based homeownership;4;0,577;0,620
+EL42;EL;Notio Aigaio;SE family-based homeownership;4;0,582;0,643
+EL62;EL;Ionia Nisia;SE family-based homeownership;4;0,593;0,632
+EL51;EL;Anatoliki Makedonia, Thraki;SE family-based homeownership;4;0,631;0,493
+EL53;EL;Dytiki Makedonia;SE family-based homeownership;4;0,647;0,564
+EL30;EL;Attiki;SE family-based homeownership;4;0,669;0,344
+EL65;EL;Peloponnisos;SE family-based homeownership;4;0,717;0,538
+EL52;EL;Kentriki Makedonia;SE family-based homeownership;4;0,721;0,440
+EL63;EL;Dytiki Elláda;SE family-based homeownership;4;0,806;0,517
+ES41;ES;Castilla y León;SE family-based homeownership;4;0,250;0,379
+ES21;ES;País Vasco;SE family-based homeownership;4;0,258;0,342
+ES23;ES;La Rioja;SE family-based homeownership;4;0,272;0,372
+ES12;ES;Principado de Asturias;SE family-based homeownership;4;0,280;0,390
+ES24;ES;Aragón;SE family-based homeownership;4;0,286;0,357
+ES22;ES;Comunidad Foral de Navarra;SE family-based homeownership;4;0,293;0,373
+ES13;ES;Cantabria;SE family-based homeownership;4;0,300;0,361
+ES11;ES;Galicia;SE family-based homeownership;4;0,314;0,406
+ES43;ES;Extremadura;SE family-based homeownership;4;0,337;0,447
+ES42;ES;Castilla-La Mancha;SE family-based homeownership;4;0,344;0,426
+ES52;ES;Comunitat Valenciana;SE family-based homeownership;4;0,383;0,440
+ES64;ES;Ciudad de Melilla;SE family-based homeownership;4;0,385;0,396
+ES51;ES;Cataluña;SE family-based homeownership;4;0,389;0,389
+ES30;ES;Comunidad de Madrid;SE family-based homeownership;4;0,395;0,354
+ES62;ES;Región de Murcia;SE family-based homeownership;4;0,402;0,423
+ES53;ES;Illes Balears;SE family-based homeownership;4;0,407;0,411
+ES61;ES;Andalucía;SE family-based homeownership;4;0,442;0,440
+ES70;ES;Canarias;SE family-based homeownership;4;0,481;0,419
+ES63;ES;Ciudad de Ceuta;SE family-based homeownership;4;0,605;0,374
+ITI2;IT;Umbria;SE family-based homeownership;4;0,181;0,399
+ITH5;IT;Emilia-Romagna;SE family-based homeownership;4;0,193;0,383
+ITH4;IT;Friuli-Venezia Giulia;SE family-based homeownership;4;0,197;0,382
+ITF5;IT;Basilicata;SE family-based homeownership;4;0,233;0,402
+ITI1;IT;Toscana;SE family-based homeownership;4;0,233;0,405
+ITH1;IT;Provincia Autonoma di Bolzano/Bozen;SE family-based homeownership;4;0,235;0,437
+ITH3;IT;Veneto;SE family-based homeownership;4;0,238;0,400
+ITI3;IT;Marche;SE family-based homeownership;4;0,244;0,373
+ITC3;IT;Liguria;SE family-based homeownership;4;0,254;0,410
+ITC2;IT;Valle d’Aosta/Vallée d’Aoste;SE family-based homeownership;4;0,260;0,425
+ITF2;IT;Molise;SE family-based homeownership;4;0,269;0,485
+ITC4;IT;Lombardia;SE family-based homeownership;4;0,276;0,376
+ITH2;IT;Provincia Autonoma di Trento;SE family-based homeownership;4;0,290;0,420
+ITC1;IT;Piemonte;SE family-based homeownership;4;0,320;0,374
+ITI4;IT;Lazio;SE family-based homeownership;4;0,325;0,392
+ITG2;IT;Sardegna;SE family-based homeownership;4;0,333;0,455
+ITG1;IT;Sicilia;SE family-based homeownership;4;0,367;0,419
+ITF1;IT;Abruzzo;SE family-based homeownership;4;0,371;0,387
+ITF4;IT;Puglia;SE family-based homeownership;4;0,425;0,407
+ITF3;IT;Campania;SE family-based homeownership;4;0,456;0,409
+ITF6;IT;Calabria;SE family-based homeownership;4;0,517;0,427
+MT00;MT;Malta;SE family-based homeownership;4;0,184;0,417
+PT18;PT;Alentejo;SE family-based homeownership;4;0,215;0,335
+PT16;PT;Centro (PT);SE family-based homeownership;4;0,232;0,330
+PT15;PT;Algarve;SE family-based homeownership;4;0,294;0,405
+PT17;PT;Área Metropolitana de Lisboa;SE family-based homeownership;4;0,327;0,387
+PT11;PT;Norte;SE family-based homeownership;4;0,358;0,348
+PT30;PT;Região Autónoma da Madeira;SE family-based homeownership;4;0,370;0,315
+PT20;PT;Região Autónoma dos Açores;SE family-based homeownership;4;0,469;0,317
+EE00;EE;Eesti;Baltics;5;0,249;0,411
+LT01;LT;Sostinės regionas;Baltics;5;0,343;0,313
+LT02;LT;Vidurio ir vakarų Lietuvos regionas;Baltics;5;0,392;0,320
+LV00;LV;Latvija;Baltics;5;0,351;0,328
+BG41;BG;Yugozapaden;Central and Eastern Europe;6;0,490;0,125
+BG33;BG;Severoiztochen;Central and Eastern Europe;6;0,496;0,205
+BG42;BG;Yuzhen tsentralen;Central and Eastern Europe;6;0,591;0,226
+BG34;BG;Yugoiztochen;Central and Eastern Europe;6;0,599;0,214
+BG31;BG;Severozapaden;Central and Eastern Europe;6;0,599;0,202
+BG32;BG;Severen tsentralen;Central and Eastern Europe;6;0,654;0,131
+CZ03;CZ;Jihozápad;Central and Eastern Europe;6;0,236;0,269
+CZ05;CZ;Severovýchod;Central and Eastern Europe;6;0,247;0,266
+CZ02;CZ;Střední Čechy;Central and Eastern Europe;6;0,256;0,275
+CZ06;CZ;Jihovýchod;Central and Eastern Europe;6;0,269;0,287
+CZ07;CZ;Střední Morava;Central and Eastern Europe;6;0,278;0,315
+CZ04;CZ;Severozápad;Central and Eastern Europe;6;0,326;0,285
+CZ08;CZ;Moravskoslezsko;Central and Eastern Europe;6;0,340;0,284
+CZ01;CZ;Praha;Central and Eastern Europe;6;0,360;0,350
+HR05;HR;Grad Zagreb;Central and Eastern Europe;6;0,257;0,279
+HR06;HR;Sjeverna Hrvatska;Central and Eastern Europe;6;0,269;0,265
+HR03;HR;Jadranska Hrvatska;Central and Eastern Europe;6;0,296;0,303
+HR02;HR;Panonska Hrvatska;Central and Eastern Europe;6;0,319;0,328
+HU22;HU;Nyugat-Dunántúl;Central and Eastern Europe;6;0,242;0,248
+HU21;HU;Közép-Dunántúl;Central and Eastern Europe;6;0,255;0,236
+HU11;HU;Budapest;Central and Eastern Europe;6;0,285;0,263
+HU12;HU;Pest;Central and Eastern Europe;6;0,346;0,252
+HU33;HU;Dél-Alföld;Central and Eastern Europe;6;0,352;0,305
+HU23;HU;Dél-Dunántúl;Central and Eastern Europe;6;0,383;0,292
+HU32;HU;Észak-Alföld;Central and Eastern Europe;6;0,406;0,323
+HU31;HU;Észak-Magyarország;Central and Eastern Europe;6;0,545;0,296
+PL84;PL;Podlaskie;Central and Eastern Europe;6;0,278;0,436
+PL82;PL;Podkarpackie;Central and Eastern Europe;6;0,283;0,333
+PL21;PL;Małopolskie;Central and Eastern Europe;6;0,290;0,370
+PL92;PL;Mazowiecki regionalny;Central and Eastern Europe;6;0,293;0,391
+PL91;PL;Warszawski stołeczny;Central and Eastern Europe;6;0,295;0,412
+PL41;PL;Wielkopolskie;Central and Eastern Europe;6;0,296;0,368
+PL52;PL;Opolskie;Central and Eastern Europe;6;0,303;0,375
+PL22;PL;Śląskie;Central and Eastern Europe;6;0,304;0,347
+PL81;PL;Lubelskie;Central and Eastern Europe;6;0,304;0,451
+PL51;PL;Dolnośląskie;Central and Eastern Europe;6;0,310;0,423
+PL71;PL;Łódzkie;Central and Eastern Europe;6;0,312;0,408
+PL62;PL;Warmińsko-mazurskie;Central and Eastern Europe;6;0,318;0,381
+PL43;PL;Lubuskie;Central and Eastern Europe;6;0,319;0,348
+PL61;PL;Kujawsko-pomorskie;Central and Eastern Europe;6;0,333;0,404
+PL72;PL;Świętokrzyskie;Central and Eastern Europe;6;0,339;0,421
+PL63;PL;Pomorskie;Central and Eastern Europe;6;0,356;0,389
+PL42;PL;Zachodniopomorskie;Central and Eastern Europe;6;0,364;0,363
+RO11;RO;Nord-Vest;Central and Eastern Europe;6;0,454;0,233
+RO32;RO;Bucureşti-Ilfov;Central and Eastern Europe;6;0,463;0,179
+RO42;RO;Vest;Central and Eastern Europe;6;0,479;0,182
+RO21;RO;Nord-Est;Central and Eastern Europe;6;0,493;0,343
+RO31;RO;Sud-Muntenia;Central and Eastern Europe;6;0,535;0,199
+RO41;RO;Sud-Vest Oltenia;Central and Eastern Europe;6;0,571;0,233
+RO12;RO;Centru;Central and Eastern Europe;6;0,585;0,212
+RO22;RO;Sud-Est;Central and Eastern Europe;6;0,660;0,228
+SI04;SI;Zahodna Slovenija;Central and Eastern Europe;6;0,194;0,276
+SI03;SI;Vzhodna Slovenija;Central and Eastern Europe;6;0,226;0,241
+SK01;SK;Bratislavský kraj;Central and Eastern Europe;6;0,291;0,209
+SK02;SK;Západné Slovensko;Central and Eastern Europe;6;0,326;0,210
+SK03;SK;Stredné Slovensko;Central and Eastern Europe;6;0,363;0,206
+SK04;SK;Východné Slovensko;Central and Eastern Europe;6;0,453;0,211
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
