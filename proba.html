@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>eurostat-map.js</title>
+    </head>
+
+    <body>
+        <svg id="map"></svg>
+        <script src="https://unpkg.com/eurostat-map"></script>
+        <script>
+            eurostatmap
+                .map('ct')
+                .width(800)
+                .title('Housing-welfare regime types')
+                .scale('20M')
+                .nutsYear(2024)
+                .nutsLevel(2)
+                .stat({
+                    csvURL: 'https://github.com/mczirfusz/EqualHouse_WP3/blob/810609a8908cf808be5d34a8bbba6987abe403ff/proba.csv',
+                    geoCol: 'NUTS_ID',
+                    valueCol: 'HW_REGIME_2',
+                })
+                .classToFillStyle({ 1: '#fdb462', 2: '#ffffb3', 3: '#ccebc5', 4: '#ccebc5', 5: '#ccebc5', 6: '#ccebc5' })
+                .classToText({ 1: 'Urban', 2: 'Intermediate', 3: 'Rural',  4: 'Rural', 5: 'Rural', 6: 'Rural'})
+                .insets('default')
+                .legend({ x: 10, y: 170, order: ['1', '2', '3', '4', '5', '6'] })
+                .build()
+        </script>
+    </body>
+</html>
